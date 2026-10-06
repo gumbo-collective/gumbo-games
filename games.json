@@ -119,6 +119,16 @@
       "itch": "",
       "appStore": "",
       "playStore": ""
+    },
+    {
+      "title": "Perfect THoG",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2984830/header.jpg?t=1757437454",
+      "gameLink": "https://store.steampowered.com/app/2984830/Perfect_THoG/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/2984830/Perfect_THoG/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
     }
   ],
   "demo": [
@@ -255,6 +265,16 @@
       "playStore": ""
     },
     {
+      "title": "Us Five Forever",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/4125820/618d2afce684e5942218a401d787719795945ded/capsule_616x353_2x.jpg?t=1774931255",
+      "gameLink": "https://store.steampowered.com/app/4125820/Us_Five_Forever/",
+      "site": "https://www.sundaystudiosgames.com/",
+      "steam": "https://store.steampowered.com/app/4125820/Us_Five_Forever/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
       "title": "Too Many Snakes",
       "image": "https://whalefoodgames.com/Images/logo.png",
       "gameLink": "http://toomanysnakes.com",
@@ -308,10 +328,10 @@
       "title": "Ouros",
       "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/2452920/capsule_616x353.jpg",
       "gameLink": "https://store.steampowered.com/app/2452920/Ouros/",
-      "site": "https://ouros-game.com/",
+      "site": "",
       "steam": "https://store.steampowered.com/app/2452920/Ouros/",
-      "itch": "https://sharkwithlasers.itch.io/ouros",
-      "appStore": "https://apps.apple.com/us/app/ouros/id6475737476",
+      "itch": "",
+      "appStore": "",
       "playStore": ""
     },
     {
@@ -328,7 +348,7 @@
       "title": "BWIRDS",
       "image": "https://images.squarespace-cdn.com/content/62b7a0970a6d6d4fa16e2b47/a9fc6124-7163-4849-b086-b91c5e82dacb/Group+1.png?content-type=image%2Fpng",
       "gameLink": "https://play.date/games/bwirds/",
-      "site": "https://play.date/games/bwirds/",
+      "site": "",
       "steam": "",
       "itch": "",
       "appStore": "",
@@ -431,16 +451,6 @@
       "site": "https://hgs-ny.org/overview",
       "steam": "",
       "itch": "https://saenyhgs26.itch.io/hidden-layers",
-      "appStore": "",
-      "playStore": ""
-    },
-    {
-      "title": "Us Five Forever",
-      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/4125820/618d2afce684e5942218a401d787719795945ded/capsule_616x353_2x.jpg?t=1774931255",
-      "gameLink": "https://store.steampowered.com/app/4125820/Us_Five_Forever/",
-      "site": "https://www.sundaystudiosgames.com/",
-      "steam": "https://store.steampowered.com/app/4125820/Us_Five_Forever/",
-      "itch": "",
       "appStore": "",
       "playStore": ""
     },
