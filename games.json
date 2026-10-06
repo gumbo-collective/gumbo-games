@@ -1,0 +1,468 @@
+{
+  "announced": [
+    {
+      "title": "Nira: Across Skies",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/4276140/aecd956d80c3979b073b5c8074373a888f7b9e00/capsule_616x353_2x.jpg?t=1773164196",
+      "gameLink": "https://store.steampowered.com/app/4276140/Nira_Across_Skies/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/4276140/Nira_Across_Skies/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Myrtle Grove",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/430bf787-1ccf-40d8-b011-bc69fd6221ad/MyrtleGrove_MainCapsule.png",
+      "gameLink": "https://store.steampowered.com/app/3141000/Myrtle_Grove_A_Clair_V_Mystery/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/3141000/Myrtle_Grove_A_Clair_V_Mystery/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Forever Tunnel",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3827500/81a10f717ed02b2ce5b009ec1072583cad28f487/header.jpg?t=1790349609",
+      "gameLink": "https://store.steampowered.com/app/3827500/Forever_Tunnel/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/3827500/Forever_Tunnel/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Squirmbox",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/3808130/49bc4c7d61329058f4fe8db5988e198168fe0788/capsule_616x353_2x.jpg?t=1788373856",
+      "gameLink": "https://store.steampowered.com/app/3808130/Squirmbox/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/3808130/Squirmbox/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Big Boss",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/2087230/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/2087230/Big_Boss_A_Villain_Simulator/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/2087230/Big_Boss_A_Villain_Simulator/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Kids of Karen Dow",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/34be85ae-8306-450e-94fc-1b2b2a7b8bc3/kok_title.png",
+      "gameLink": "https://www.kidsofkarendow.com",
+      "site": "https://www.kidsofkarendow.com",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Vivarium",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/a1825528-9ae2-46f7-9458-735f5b49d01b/cbc6d98813fd7f4dd6b4fe2c0369ad3c33df79f7_400x225.png",
+      "gameLink": "https://store.steampowered.com/app/4735760/Vivarium/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/4735760/Vivarium/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Unwound",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/2269360/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/2269360/Unwound/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/2269360/Unwound/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Galaxy Motel Manager",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/e09787bf-725b-489f-a282-ee4ebe214609/GMM_Title_Logo.png",
+      "gameLink": "https://galaxy-motel.itch.io/galaxy-motel-manager",
+      "site": "",
+      "steam": "",
+      "itch": "https://galaxy-motel.itch.io/galaxy-motel-manager",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Scramble Heart City",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/3041800/a125855c0cc97dff57ee50a77f3d0f3661f8807e/capsule_616x353_2x.jpg?t=1789739397",
+      "gameLink": "https://store.steampowered.com/app/3041800/Scramble_Heart_City/",
+      "site": "https://scrambleheart.city/",
+      "steam": "https://store.steampowered.com/app/3041800/Scramble_Heart_City/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "RoleBreakers: The Stolen Crown",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/3171520/9100372aa9d5cdcdd8e11cdea740c47fc2836449/capsule_616x353_2x.jpg?t=1788541232",
+      "gameLink": "https://store.steampowered.com/app/3171520/RoleBreakers_The_Stolen_Crown/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/3171520/RoleBreakers_The_Stolen_Crown/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Bug Zapper: The Golden Chrysalis",
+      "image": "https://goodeaton.com/bugzapper/assets/images/bz_game_poster.jpg",
+      "gameLink": "https://goodeaton.com/bugzapper/game.html",
+      "site": "https://goodeaton.com/bugzapper/game.html",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    }
+  ],
+  "demo": [
+    {
+      "title": "Mimic Meadows",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/4136640/bd5c817ccd57871b87b97bf88e830ef9023ba887/capsule_616x353_2x.jpg",
+      "gameLink": "https://store.steampowered.com/app/4136640/Mimic_Meadows/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/4136640/Mimic_Meadows/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Captain Corgi",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/3131700/3c7c8010bc5514b762bc45fe246cec6510e5776b/capsule_616x353_2x.jpg?t=1789500198",
+      "gameLink": "https://store.steampowered.com/app/3131700/Captain_Corgi_Planetary_Problem_Solver/",
+      "site": "https://www.captcorgi.com/",
+      "steam": "https://store.steampowered.com/app/3131700/Captain_Corgi_Planetary_Problem_Solver/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Project Anomaly",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/1980620/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/1980620/Project_Anomaly_Urban_Supernatural_Investigator/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/1980620/Project_Anomaly_Urban_Supernatural_Investigator/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    }
+  ],
+  "released": [
+    {
+      "title": "KungFu Kickball",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/1004620/capsule_616x353.jpg?t=1678062017",
+      "gameLink": "https://store.steampowered.com/app/1004620/KungFu_Kickball/",
+      "site": "https://www.kungfukickball.com/",
+      "steam": "https://store.steampowered.com/app/1004620/KungFu_Kickball/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Chromatic Isle",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/2684780/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/2684780/Chromatic_Isle/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/2684780/Chromatic_Isle/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Saeter",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/5beb7607-f5fc-47f8-be86-514f60da230c/saeter_gumbo_pic.png",
+      "gameLink": "https://jasoonmargoon.itch.io/saeter",
+      "site": "",
+      "steam": "",
+      "itch": "https://jasoonmargoon.itch.io/saeter",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Into the Dark Narakan",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/62ebc37e-2999-4bb6-9adf-34a04a0f0177/intothedark_orcpunk.png",
+      "gameLink": "http://orcpunk.com/games/into-the-dark-narakan",
+      "site": "http://orcpunk.com/games/into-the-dark-narakan",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Swing Star",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/17b106f4-76b4-43af-a393-ae3a9a5c9aae/swingstar_computerlunch.png",
+      "gameLink": "http://games.computerlunch.com/swing-star/",
+      "site": "http://games.computerlunch.com/swing-star/",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Cell to Singularity",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/9cc4fe53-c987-4f09-a010-a1a145ff8593/c2s_computerlunch.png",
+      "gameLink": "http://www.celltosingularity.com",
+      "site": "http://www.celltosingularity.com",
+      "steam": "https://store.steampowered.com/app/977400/Cell_to_Singularity__Evolution_Never_Ends/",
+      "itch": "",
+      "appStore": "https://apps.apple.com/nz/app/cell-to-singularity-evolution/id1327555461",
+      "playStore": "https://play.google.com/store/apps/details?id=com.computerlunch.evolution"
+    },
+    {
+      "title": "Sidewalker",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/0f558ae5-1645-47f6-a925-d19c02dfbf9e/sidewalker_computerlunch.png",
+      "gameLink": "http://games.computerlunch.com/sidewalker/",
+      "site": "http://games.computerlunch.com/sidewalker/",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Dodo Peak",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/144a6b5b-faf4-40a8-a04b-6673d361ebc0/movingpieces_dodopeak.png",
+      "gameLink": "https://www.dodopeak.com",
+      "site": "https://www.dodopeak.com",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Fourzy",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/f23449b0-9e08-46b1-961b-38e3ff251261/mindisle_fourzy.jpg",
+      "gameLink": "https://store.steampowered.com/app/1300900/Fourzy/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/1300900/Fourzy/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Way of Rhea",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/1110620/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/1110620/Way_of_Rhea/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/1110620/Way_of_Rhea/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Too Many Snakes",
+      "image": "https://whalefoodgames.com/Images/logo.png",
+      "gameLink": "http://toomanysnakes.com",
+      "site": "http://toomanysnakes.com",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Mamahawk",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/937bc1e2-0b54-4efa-9a93-75230bb129cd/mamaHawk_computerlunch.png",
+      "gameLink": "http://games.computerlunch.com/mamahawk/",
+      "site": "http://games.computerlunch.com/mamahawk/",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Cantata",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/690370/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/690370/Cantata/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/690370/Cantata/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "The Beach",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/7e067ac7-d6d6-4ab6-8276-549aba37e85d/thebeach-gumbo.png",
+      "gameLink": "https://afterschool.itch.io/the-beach",
+      "site": "",
+      "steam": "",
+      "itch": "https://afterschool.itch.io/the-beach",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Grønland",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/2636310/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/2636310/Gronland/",
+      "site": "https://beachsoft.us/gronland-presskit.html",
+      "steam": "https://store.steampowered.com/app/2636310/Grnland/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Ouros",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/2452920/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/2452920/Ouros/",
+      "site": "https://ouros-game.com/",
+      "steam": "https://store.steampowered.com/app/2452920/Ouros/",
+      "itch": "https://sharkwithlasers.itch.io/ouros",
+      "appStore": "https://apps.apple.com/us/app/ouros/id6475737476",
+      "playStore": ""
+    },
+    {
+      "title": "Chaotic Formula",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/fa0700e5-ed16-41b3-a779-599bcaf41b2a/sleepwatchers-500x376.png",
+      "gameLink": "https://www.chaoticformula.com/",
+      "site": "https://www.chaoticformula.com/",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "BWIRDS",
+      "image": "https://images.squarespace-cdn.com/content/62b7a0970a6d6d4fa16e2b47/a9fc6124-7163-4849-b086-b91c5e82dacb/Group+1.png?content-type=image%2Fpng",
+      "gameLink": "https://play.date/games/bwirds/",
+      "site": "https://play.date/games/bwirds/",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Skate Story",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/1263240/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/1263240/Skate_Story/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/1263240/Skate_Story/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Hero Soul",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/f1e11e6d-bf1d-4be6-ab67-45804eaad0b4/ryan_herosoul.png",
+      "gameLink": "https://raynesu.itch.io/hero-soul-i-want-to-be-a-hero",
+      "site": "",
+      "steam": "",
+      "itch": "https://raynesu.itch.io/hero-soul-i-want-to-be-a-hero",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "The Take",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/809410/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/809410/The_Take/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/809410/The_Take/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Tree Trunk Brook",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/1441680/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/1441680/Tree_Trunk_Brook/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/1441680/Tree_Trunk_Brook/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Meow Pow",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/1348680/capsule_616x353.jpg",
+      "gameLink": "https://store.steampowered.com/app/1348680/Meow_Pow/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/1348680/Meow_Pow/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Derelict Zones",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/1ecc3812-b475-426c-bdaa-bbe2bd1cbc19/monsterbuilds_derelictzones.jpg",
+      "gameLink": "https://derelictzones.itch.io/thefear",
+      "site": "",
+      "steam": "",
+      "itch": "https://derelictzones.itch.io/thefear",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Zarvot",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/7a5fef48-0a1d-4824-adaf-b9fb169d28fd/snowhydra_zarvot.png",
+      "gameLink": "https://www.nintendo.com/us/store/products/zarvot-switch/",
+      "site": "https://www.nintendo.com/us/store/products/zarvot-switch/",
+      "steam": "",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Reassembly",
+      "image": "https://images.squarespace-cdn.com/content/v1/62b7a0970a6d6d4fa16e2b47/9ceba3cf-a7fd-4799-a4ed-54aa42ba9d1e/reassembly_complete.png",
+      "gameLink": "http://www.anisopteragames.com",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/329130/Reassembly/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Jaxx Blorgin's UFO Jam",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/3958600/67f1de16b40ece887e86ba2527eca9686d9a9cc6/capsule_616x353_2x.jpg?t=1789567310",
+      "gameLink": "https://store.steampowered.com/app/3958600/Jaxx_Blorgins_UFO_Jam/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/3958600/Jaxx_Blorgins_UFO_Jam/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Hidden Layers",
+      "image": "https://images.squarespace-cdn.com/content/62b7a0970a6d6d4fa16e2b47/fe5d7d3a-ff5a-48f4-ab28-b30f1ab96cf0/KcE0UGj.png?content-type=image%2Fpng",
+      "gameLink": "https://saenyhgs26.itch.io/hidden-layers",
+      "site": "https://hgs-ny.org/overview",
+      "steam": "",
+      "itch": "https://saenyhgs26.itch.io/hidden-layers",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Us Five Forever",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/4125820/618d2afce684e5942218a401d787719795945ded/capsule_616x353_2x.jpg?t=1774931255",
+      "gameLink": "https://store.steampowered.com/app/4125820/Us_Five_Forever/",
+      "site": "https://www.sundaystudiosgames.com/",
+      "steam": "https://store.steampowered.com/app/4125820/Us_Five_Forever/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "qualia",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/3351080/473e48e36b8da14834ddbb5b3834d2b1c89c9a76/capsule_616x353_2x.jpg?t=1776127537",
+      "gameLink": "https://store.steampowered.com/app/3351080/qualia/",
+      "site": "https://cmy2k.net/qualia",
+      "steam": "https://store.steampowered.com/app/3351080/qualia/",
+      "itch": "https://sailorspooky.itch.io/qualia",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "title": "Tough Love Arena",
+      "image": "https://about.toughlovearena.com/asset/gallery/maxres/welcomepage_v02.jpg",
+      "gameLink": "https://toughlovearena.com",
+      "site": "https://about.toughlovearena.com/",
+      "steam": "https://store.steampowered.com/app/1807330/Tough_Love_Arena/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    }
+  ]
+}
