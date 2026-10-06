@@ -133,6 +133,16 @@
   ],
   "demo": [
     {
+      "title": "Scarlet O'Beetle and the Unseen World",
+      "image": "https://raw.githubusercontent.com/gumbo-collective/gumbo-games/main/assets/scarlet.png",
+      "gameLink": "https://store.steampowered.com/app/3986860/Scarlet_OBeetle_and_the_Unseen_World/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/3986860/Scarlet_OBeetle_and_the_Unseen_World/",
+      "itch": "https://terminalvector.itch.io/scarlet-unseen-world",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
       "title": "Mimic Meadows",
       "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/4136640/bd5c817ccd57871b87b97bf88e830ef9023ba887/capsule_616x353_2x.jpg",
       "gameLink": "https://store.steampowered.com/app/4136640/Mimic_Meadows/",
