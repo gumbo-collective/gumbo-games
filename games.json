@@ -133,6 +133,16 @@
   ],
   "demo": [
     {
+      "title": "Grandma's Guide to the Grand Outside",
+      "image": "https://raw.githubusercontent.com/gumbo-collective/gumbo-games/main/assets/grandma.png",
+      "gameLink": "https://store.steampowered.com/app/5004640/Grandmas_Guide_to_the_Grand_Outside/",
+      "site": "",
+      "steam": "https://store.steampowered.com/app/5004640/Grandmas_Guide_to_the_Grand_Outside/",
+      "itch": "",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
       "title": "Scarlet O'Beetle and the Unseen World",
       "image": "https://raw.githubusercontent.com/gumbo-collective/gumbo-games/main/assets/scarlet.png",
       "gameLink": "https://store.steampowered.com/app/3986860/Scarlet_OBeetle_and_the_Unseen_World/",
